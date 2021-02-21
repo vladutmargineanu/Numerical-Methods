@@ -1,0 +1,8 @@
+# Created by Octave 4.2.1, Tue Mar 13 19:35:01 2018 EET <margineanu@lenovo>
+# name: y
+# type: matrix
+# rows: 1
+# columns: 11
+ 1 1.2 1.4 1.6 1.8 2 2.2 2.4 2.6 2.8 3
+
+

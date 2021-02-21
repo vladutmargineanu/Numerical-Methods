@@ -1,0 +1,11 @@
+# Created by Octave 4.2.1, Wed Mar 14 12:08:38 2018 EET <margineanu@lenovo>
+# name: A
+# type: matrix
+# rows: 4
+# columns: 4
+ 16 2 3 13
+ 5 11 10 8
+ 9 7 6 12
+ 4 14 15 1
+
+
